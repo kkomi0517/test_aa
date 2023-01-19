@@ -1,0 +1,29 @@
+body{background-image: url(../img/dark-wood.jpg);
+background-position: center;
+margin: 0 1.4em;
+color: #666;}
+.div{border: 2px solid #000;
+background-color: #fff;
+width: 940px;
+margin: 20px auto;}
+header{height: 160px;
+background-image: url(../img/header.jpg);}
+h1{text-indent: -99999px;
+height: 130px; width: 940px; margin: 0;}
+nav, footer{background-color: gray;
+height: 30px; clear: both;}
+nav ul{margin: 0; padding: 5px 0 5px 30px;}
+nav ul li{display: inline-block; margin-right: 40px;}
+nav ul li a{text-decoration: none; color: #fff;}
+nav ul li a:hover , .home{color: #000;}
+section .se{width: 659px; float: left;}
+article{width: 100%; overflow: auto;clear: both;}
+figure{float: left; border: 1px solid #eee;
+width: 290px; height: 220px; padding: 5px; margin: 20px;}
+figcaption{font-size: 90%;}
+aside{float: left; width: 230px; padding: 0 0 0 20px;}
+aside section a{display: block; border-bottom: 1px solid #eee; }
+a{text-decoration: none;color: deeppink;}
+aside section a:hover{color: darkslateblue; background-color: #efefef;}
+h2, h3 {color: deeppink;}
+footer{font-size: 80%; padding: 7px 0 0 20px;}
